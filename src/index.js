@@ -1,6 +1,5 @@
-import React from 'react';
+import React from 'react'; //sempre precisa do react no contexto pro jsx
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
